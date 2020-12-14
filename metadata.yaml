@@ -1,0 +1,25 @@
+_repo: A-Paris-pair-Their-day-s-doings_64016
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brown, Barbara Haven
+    gutenberg_agent_id: '52719'
+    url: http://www.gutenberg.org/2009/agents/52719
+creator:
+  author:
+    agent_name: Brown, Beatrice Bradshaw
+    gutenberg_agent_id: '52718'
+    url: http://www.gutenberg.org/2009/agents/52718
+description: ''
+gutenberg_issued: '2020-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Paris pair; Their day's doings
+url: http://www.gutenberg.org/ebooks/64016
